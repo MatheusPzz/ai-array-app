@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-array-app/static/css/main.b04bc5e2.css",
+    "main.js": "/ai-array-app/static/js/main.0598ea75.js",
+    "static/js/787.3d7b3554.chunk.js": "/ai-array-app/static/js/787.3d7b3554.chunk.js",
+    "index.html": "/ai-array-app/index.html",
+    "main.b04bc5e2.css.map": "/ai-array-app/static/css/main.b04bc5e2.css.map",
+    "main.0598ea75.js.map": "/ai-array-app/static/js/main.0598ea75.js.map",
+    "787.3d7b3554.chunk.js.map": "/ai-array-app/static/js/787.3d7b3554.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04bc5e2.css",
+    "static/js/main.0598ea75.js"
+  ]
+}
